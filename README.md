@@ -1,5 +1,5 @@
 
-# Awesome Website
+# Rock Paper Scissors
 
 The [assignment](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors) is to create a game, namely, Rock Paper Scissors.
 
